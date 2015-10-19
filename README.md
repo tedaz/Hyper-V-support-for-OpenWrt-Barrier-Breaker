@@ -40,4 +40,4 @@ Chinese:
 
 应用补丁：
 (1)下载cc-hyper-v.patch并将其拷贝到buildroot文件夹。
-(2)运行命令应用补丁，“git apply --verbose cc-hyper-v.patch”
+(2)运行命令应用补丁，“git apply --verbose bb-hyper-v.patch”
